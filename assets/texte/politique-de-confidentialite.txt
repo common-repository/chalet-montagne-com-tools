@@ -1,0 +1,20 @@
+<h2>Qui sommes-nous?</h2>
+<a href="./mentions-legales/">Voir les mentions l&eacute;gales.</a>
+<h2>Utilisation et transmission de vos donn&eacute;es personnelles</h2>
+<h3>Formulaire de contact</h3>
+Vos informations personnelles sont enregistr&eacute;es d&egrave;s lors que vous d&eacute;posez une demande de renseignement via notre�<a href="/contact/">formulaire de contact</a>. Ces informations sont enregistr&eacute;es dans le seul but de pouvoir vous recontacter pour la r&eacute;ponse.
+Vos donn&eacute;es communiqu&eacute;es sur le formulaire de contact sont enregistr&eacute;es par le site <a href="https://www.chalet-montagne.com">www.chalet-montagne.com</a>, et consultables ensuite dans notre espace membre en tant que loueur (cet espace est s&eacute;curis&eacute; par un mot de passe). Veuillez donc consulter la politique de confidentialit&eacute; du site chalet-montagne.com. Leurs bases de donn&eacute;es sont h&eacute;berg&eacute;es sur un serveur d&eacute;di&eacute; d'Alpium chez OVH. Nous recevons &eacute;galement vos donn&eacute;es et demandes de renseignements par mail et SMS. Nous ne conservons pas les mails plus de 3 ans sur notre messagerie.
+Nous nous engageons &agrave; respecter la confidentialit&eacute; de vos pr&eacute;cieuses donn&eacute;es, et &agrave; ne pas les diffuser &agrave; d'autres tiers que ceux indiqu&eacute;s ci-dessus, notamment pour des fins de prospection ult&eacute;rieure. En particulier aucune op&eacute;ration de marketing automatis&eacute; et/ou de profilage ne sera r&eacute;alis&eacute;e &agrave; l'aide de vos donn&eacute;es personnelles, et elles ne seront pas revendues &agrave; des prestataires ext&eacute;rieurs.
+<h3>Les droits que vous avez sur vos donn&eacute;es</h3>
+Vous pouvez &agrave; tout moment demander la suppression des donn&eacute;es transmises :
+<ul>
+<li>En nous contactant nous effacerons les traces de mail et SMS vous concernant.</li>
+<li>En contactant Alpium ils supprimeront alors vos donn&eacute;es de leurs bases de donn&eacute;es.</li>
+</ul>
+Cela ne prend pas en compte les donn&eacute;es stock&eacute;es &agrave; des fins administratives, l&eacute;gales ou pour des raisons de s&eacute;curit&eacute; (notamment si nous avons finalis&eacute; un contrat de location).
+<h3>Informations de contact</h3>
+Vous pouvez nous contacter &agrave; propos de vos donn&eacute;es personnelles &agrave; l'adresse, mail et t&eacute;l&eacute;phone figurant dans les <a href="/mentions-legales/">mentions l&eacute;gales</a>.
+<h3>Comment nous prot&eacute;geons vos donn&eacute;es</h3>
+Vos donn&eacute;es transitent de votre navigateur aux serveurs avec un protocole de transfert s&eacute;curis&eacute; (de façon crypt&eacute;e). Elles ne sont ensuite accessibles que moyennant des connexions prot&eacute;g&eacute;es par mots de passe.
+<h3>Cookies</h3>
+Aucun cookie de pub, de traçage et de r&eacute;seaux sociaux n'est enregistr&eacute; suite &agrave; votre visite sur ce site.

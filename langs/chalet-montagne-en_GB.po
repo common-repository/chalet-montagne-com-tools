@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: chalet-montagne\n"
+"POT-Creation-Date: 2014-10-29 13:24+0100\n"
+"PO-Revision-Date: 2014-10-29 13:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./views\n"
+
+#: views/config.admin.php:7
+msgid "Liste de vos locations"
+msgstr "List of your rentals"
+
+#: views/config.admin.php:8
+msgid "Copier le shortcode suivant pour afficher toutes vos locations"
+msgstr "Copy the shortcode below to display all your locations"
+
+#: views/config.admin.php:36
+msgid "Informations"
+msgstr "Informations"
+
+#: views/config.admin.php:40
+msgid "Déconnecter le compte"
+msgstr "Log off the account"
+
+#: views/header.admin.php:2
+msgid "Chalet Montagne"
+msgstr "Chalet Montagne"
+
+#: views/index.admin.php:8
+msgid "Activer le service"
+msgstr "Enable the service"
+
+#: views/index.admin.php:19
+msgid "Saissisez votre clé"
+msgstr "Enter your api key"
+
+#: views/index.front.php:27
+msgid "Rendez-vous sur :"
+msgstr "Visit :"
+
+#: views/notice.admin.php:14
+msgid "Il y a un problème avec votre clé."
+msgstr "There is a problem with your api key."
+
+#: views/notice.admin.php:23
+msgid "Votre compte a bien été synchronisé avec votre site."
+msgstr "Your account has been successfully synchronized with your website."
+
+#: views/notice.admin.php:27
+msgid "La clé est invalide."
+msgstr "The key is not valid."
+
+#: views/notice.admin.php:31
+msgid "La clé que vous avez entrée n'a pas pu être vérifiée."
+msgstr "Unable to verify the key."

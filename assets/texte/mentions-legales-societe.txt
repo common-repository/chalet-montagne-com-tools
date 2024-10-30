@@ -1,0 +1,26 @@
+<h2>Ce site pr&eacute;sente un/des bien(s) lou&eacute;s &agrave; la montagne, par :</h2>
+
+[societe]
+<i><u><span style="color:red">Forme Juridique</span></u></i>
+[adresse]
+[zip] [ville]
+
+<i><u><span style="color:red">Renseignez le montant du capital social</span></u></i>
+
+[tel]
+[telpor]
+[email]
+
+<i><u><span style="color:red">Renseignez votre num&eacute;ro d'inscription au registre du commerce et des soci&eacute;t&eacute;s (RCS)</span></u></i>
+<i><u><span style="color:red">Num&eacute;ro individuel d'identification fiscale</span></u></i>
+<i><u><span style="color:red">Num&eacute;ro de TVA intracommunautaire</span></u></i>
+
+<h2>Directeur de la publication :</h2>
+
+[prenom] [nom]
+
+<h2>Ce site est h&eacute;berg&eacute; par :</h2>
+
+<i><u><span style="color:red">Nom de l'h&eacute;bergeur du site</span></u></i>
+<i><u><span style="color:red">Adresse</span></u></i> 
+<i><u><span style="color:red">Num&eacute;ro de t&eacute;l&eacute;phone et mail de contact</span></u></i>

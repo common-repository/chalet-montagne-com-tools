@@ -1,0 +1,430 @@
+
+.calendar {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+@media (max-width:576px) {
+	.calendar .ui-datepicker-multi-2 .ui-datepicker-group {
+		width: 100%;
+	}
+}
+
+.calendar tr {
+	border: 0px;
+}
+
+.calendar .ui-datepicker td {
+	padding: 0px;
+}
+
+.calendar .ui-state-default,
+.calendar .ui-widget-content .ui-state-default,
+.calendar .ui-widget-header .ui-state-default,
+.calendar .ui-button,
+html .calendar .ui-button.ui-state-disabled:hover,
+html .calendar .ui-button.ui-state-disabled:active {
+	border: 0px !important;
+	box-shadow: unset;
+	background-image: none;
+	width: 100%;
+	height: 100%;
+	color: #fff;
+}
+
+.ui-datepicker-inline.ui-datepicker.ui-widget.ui-widget-content.ui-helper-clearfix.ui-corner-all.ui-datepicker-multi-2.ui-datepicker-multi {
+	width: 100% !important;
+}
+
+.calendar .ui-datepicker-group table.ui-datepicker-calendar tr:hover td {
+	color: #fff !important;
+}
+
+.calendar .ui-datepicker-group table.ui-datepicker-calendar tr td.loc-available {
+	background-color: #649316 !important;
+}
+
+.calendar .loc-available:hover,
+.calendar .loc-end:hover{
+	opacity: 0.5;
+}
+
+.calendar .loc-start {
+	background-color: transparent;
+}
+
+.calendar .ui-datepicker-group table.ui-datepicker-calendar tr .loc-end a.ui-state-default {
+	background: #ff3232; /* Old browsers */
+	background: -moz-linear-gradient(-45deg, #ff3232 50%, #649316 50%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, #ff3232 50%,#649316 50%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, #ff3232 50%,#649316 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3232', endColorstr='#649316',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.calendar .ui-datepicker-group table.ui-datepicker-calendar tr .loc-start a.ui-state-default {
+	background: #ff3232; /* Old browsers */
+	background: -moz-linear-gradient(-45deg, #649316 50%, #ff3232 50%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, #649316 50%,#ff3232 50%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, #649316 50%,#ff3232 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#649316', endColorstr='#ff3232',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+
+.calendar .ui-widget-header .ui-icon {
+	background-image: url("images/ui-icons_ffffff_256x240.png");
+}
+
+.calendar .ui-widget-header {
+	background: #6c6262;
+}
+
+.calendar .ui-corner-all,
+.ui-corner-bottom,
+.ui-corner-left,
+.ui-corner-bl {
+	border-radius: 0px;
+}
+
+.calendar .ui-datepicker-month,
+.calendar .ui-datepicker-year {
+	color: #fff;
+}
+
+.calendar .ui-datepicker-next.ui-corner-all,
+.calendar .ui-datepicker-prev.ui-corner-all.ui-state-disabled,
+.calendar .ui-datepicker-prev.ui-corner-all,
+.calendar .ui-state-default.ui-state-hover {
+	box-shadow: none !important;
+}
+
+.calendar .ui-datepicker-next.ui-corner-all.ui-state-hover.ui-datepicker-next-hover,
+.calendar .ui-datepicker-prev.ui-corner-all.ui-state-hover.ui-datepicker-prev-hover {
+	background: none;
+	box-shadow: none;
+	cursor: pointer;
+}
+
+.calendar .ui-datepicker-next.ui-corner-all:hover,
+.calendar .ui-datepicker-prev.ui-corner-all:hover {
+	border: 0px;
+}
+
+.calendar .ui-state-disabled,
+.calendar .ui-widget-content .ui-state-disabled {
+	opacity: 1;
+}
+
+.calendar .ui-datepicker-prev.ui-corner-all.ui-state-disabled {
+	opacity: 0.35;
+}
+
+.calendar .loc-end {
+}
+
+.calendar .loc-available a.ui-state-default {
+	background: none;
+	border: 0px;
+	text-align: center;
+}
+
+.calendar .loc-available a.ui-state-default,
+.calendar .loc-start a.ui-state-default,
+.calendar .loc-end a.ui-state-default {
+	color: #fff;
+}
+
+.calendar .ui-datepicker-group table.ui-datepicker-calendar tr td.loc-disable {
+	opacity: 1;
+	background-color: #ff3232 !important;
+}
+
+.calendar .loc-disable span.ui-state-default{
+	background: none;
+	border: 0px;
+	text-align: center;
+	color: #fff;
+}
+
+.calendar a.ui-corner-all.ui-state-default,
+.calendar a.ui-corner-bottom,
+.calendar a.ui-corner-right,
+.calendar a.ui-corner-br {
+	border-radius: 0px;
+}
+
+.calendar .ui-datepicker .ui-datepicker-title {
+	font-size: 0.9em;
+}
+
+
+.chaletMontagne .modal .modal-dialog  {
+	max-width: 75% !important;
+	margin: 2.5rem auto;
+	-webkit-transform: translate(0, 0) !important;
+	-ms-transform: translate(0, 0) !important;
+	transform: none !important;
+}
+
+
+
+@media(max-width:576px){
+	.chaletMontagne .modal-dialog {
+		max-width: 100% !important;
+	}
+}
+
+.chaletMontagne .modal-header {
+	background-color: #f2a554;
+	color: #fff;
+}
+
+.required:before {
+	content: " * ";
+}
+
+.fieldValid {
+	border-color: #28a745 !important;
+}
+
+.fieldValid:focus, .fieldCheckboxValid:focus {
+	border-color: #28a745;
+	box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+}
+
+.fieldInvalid {
+	border-color: #dc3545 !important;
+}
+
+.fieldCheckBoxInvalid {
+	outline: 3px solid #dc3545;
+}
+
+.fieldInvalid:focus, .fieldCheckboxInvalid:focus {
+	border-color: #dc3545;
+	box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25);
+}
+
+input[type="text"].inputDisabled {
+	cursor: not-allowed;
+	pointer-events: none;
+	border: 1px solid #bbb;
+	background-color: #eee;
+	color: #666 ;
+}
+
+.alert.critical{
+	background-color: #993300;
+}
+
+.alert.active{
+	background-color: #649316;
+}
+
+.alert.active h3,
+.alert.critical h3{
+	color:#fff;
+}
+
+.alert{
+	border: 1px solid #e5e5e5;
+	padding: 10px 30px 10px 30px;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	color:#fff;
+}
+
+.tarifs {
+	padding: 15px;
+	background-color: #fff;
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+#modalReservation.modal,
+#modalReservationSemaine.modal {
+	z-index: 999999 !important;
+}
+
+.row-periodes {
+	margin-bottom: 20px;
+}
+
+.col-mois {
+	border-bottom: 1px solid #6C6262;
+	margin-bottom: 10px;
+	font-weight: bold;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+.col-semaine {
+	font-weight: bold;
+}
+
+.col-reserver {
+	padding: 0px;
+	text-align: center;
+}
+
+.row-tarif {
+	margin-bottom: 5px;
+}
+
+.col-tarif {
+	padding: 0px;
+}
+
+.tarif-semaine,
+.tarif-normal {
+	margin-right: 5px;
+	padding: 5px 20px;
+	background-color: green;
+	color: white;
+	line-height: 20px;
+	min-width: 100px;
+	text-align: center;
+	float: right;
+}
+
+.tarif-normal {
+	text-decoration: line-through;
+	font-size: 0.9em;
+}
+
+.tarif-promo {
+	padding: 5px 20px;
+	background-color: #f2a554;
+	color: white;
+	line-height: 20px;
+	min-width: 100px;
+	text-align: center;
+	float: left;
+}
+
+@media(max-width:576px) {
+	.tarif-semaine,
+	.tarif-normal,
+	.tarif-promo {
+		width: 40%;
+	}
+
+	.col-reserver {
+		margin-bottom: 25px;
+	}
+
+}
+
+
+.btn-reserver {
+	padding: 3px 15px;
+	line-height: 20px;
+	cursor: pointer;
+	background-color: #6C6262;
+}
+
+.btn-reserver img {
+	width: auto;
+	height: 100%;
+}
+
+.btn-primary:link.btn-reserver,
+.btn-primary:visited.btn-reserver,
+.btn-primary:hover.btn-reserver,
+.btn-primary:active.btn-reserver,
+.btn-primary:active:focus.btn-reserver  {
+	color: #fff;
+	background-color: #6C6262 !important;
+	border-color: #6C6262 !important;
+}
+
+.btn-secondary.btn-dismiss,
+.btn-primary.planning_sendMail,
+.btn-primary.tarif_sendMail {
+	border-radius: 0px;
+}
+
+.btn-secondary.btn-dismiss,
+.btn-primary.btn-dismiss:link,
+.btn-primary.btn-dismiss:visited,
+.btn-primary.btn-dismiss:hover,
+.btn-primary.btn-dismiss:active,
+.btn-primary.btn-dismiss:focus {
+	border-color: #372020 !important;
+	background: #372020 !important;
+	box-shadow: none !important;
+}
+
+.planning_sendMail,
+.tarif_sendMail,
+.btn-primary.planning_sendMail:link,
+.btn-primary.planning_sendMail:visited,
+.btn-primary.planning_sendMail:hover,
+.btn-primary.planning_sendMail:active,
+.btn-primary.planning_sendMail:focus,
+.btn-primary.tarif_sendMail:link,
+.btn-primary.tarif_sendMail:visited,
+.btn-primary.tarif_sendMail:hover,
+.btn-primary.tarif_sendMail:active,
+.btn-primary.tarif_sendMail:focus{
+	border-color: #f2a554 !important;
+	background-color: #f2a554 !important;
+	box-shadow: none !important;
+}
+
+.cmGallery {
+	margin-top: 25px;
+}
+
+.entry-content .cmGallery a,.entry-content .cmGallery a:hover {
+	text-decoration: none;
+	box-shadow: none;
+}
+
+.cmGallery img.imgFancyGallery {
+	-webkit-box-shadow: unset;
+	box-shadow: unset;
+	margin: 4px;
+}
+
+.errorDate {
+	color: red;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.entry-content a {
+	box-shadow: none !important;
+}
+
+a.btn.btn-primary {
+	box-shadow: none;
+}
+
+.title-liste-locations {
+	margin: 0;
+}
+
+.fancybox-caption-wrap .fancybox-caption {
+	background-color: rgba(0,0,0,0.5);
+	text-align: center;
+}
+
+.single-featured-image-header {
+	max-width: 676px;
+	margin: auto;
+}
+
+.form-checkbox {
+	line-height: 0px;
+}
+
+.form-checkbox label{
+	padding-bottom:0px;
+	line-height: 18px
+}
+
+.form-checkbox div {
+	line-height: 12px;
+}

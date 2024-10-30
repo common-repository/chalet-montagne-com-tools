@@ -1,0 +1,19 @@
+<h2>Ce site pr&eacute;sente un/des bien(s) lou&eacute;s &agrave; la montagne, par :</h2>
+
+[prenom] [nom]
+[adresse]
+[zip] [ville]
+
+[tel]
+[telpor]
+[email]
+
+<h2>Directeur de la publication :</h2>
+
+[prenom] [nom]
+
+<h2>Ce site est h&eacute;berg&eacute; par :</h2>
+
+<i>Nom de l'h&eacute;bergeur du site</i>
+<i>Adresse</i> 
+<i>Num&eacute;ro de t&eacute;l&eacute;phone et mail de contact</i>
